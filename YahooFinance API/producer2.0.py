@@ -17,12 +17,6 @@ bitcoin_prices.reset_index(inplace = True)
 
 if __name__ == "__main__":
     print("Sending Data to Kafka")
-    # while True:
-    #     print("****** New Data ******")
-    #     bitcoin_market_data = urllib.request.urlopen(url).read()
-    #     print(json.loads(bitcoin_market_data))
-    #     producer.send('bitcoin', bitcoin_market_data)
-    #     time.sleep(3)
     for index, row in bitcoin_prices.iterrows():
         print("****** New Data ******")
         data = {
