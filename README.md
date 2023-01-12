@@ -9,20 +9,20 @@
 ## Overview
 This project consists of a Kibana dashboard for Bitcoin price visualization and price prediction using YahooFinance API. The project sets up a complete pipeline for data collection, streaming, indexing, visualization and ML model training and prediction.
 
-![alt text](img\architecture.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/architecture.png)
 <span>Project Architecture</span>
-![alt text](img\Viz1.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/Viz1.png)
 <span>Data Visualization</span>
-![alt text](img\Viz2.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/Viz2.png)
 <span>Data Visualization</span>
-![alt text](img\Viz3.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/Viz3.png)
 <span>Anomaly detection tool in Kibana to detect unusual patterns</span>
-![alt text](img\Viz4.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/Viz4.png)
 <span>Forecast the bitcoin price using **Forecast tool in Kibana** for the next 14 days</span>
-![alt text](img\Viz5.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/Viz5.png)
 <span>Predicted value visualization</span>
-![alt text](img\prediction_lstm.jpg)
-![alt text](img\prediction_lstm_more.png)
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/prediction_lstm.JPG)
+![alt text]([img\prediction_lstm_more.png](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/prediction_lstm_more.png))
 <span>Price prediction for the next week using LSTM</span>
 
 ## Folder Structure 
