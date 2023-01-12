@@ -46,7 +46,7 @@ This project consists of a Kibana dashboard for Bitcoin price visualization and 
 This work relies on [Historical bitcoin data from YahooFinance](https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD). This dataset includes all historical bitcoin price from **17 September 2014 until today**.
 
 ## Notebooks
-- [Bitcoin Price Prediction using LSTM + Analysis](notebooks\Bitcoin_price_prediction_LSTM.ipynb)
+- [Bitcoin Price Prediction using LSTM + Analysis](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/notebooks/Bitcoin_price_prediction_LSTM.ipynb)
 
 ## Requirements
 - Elasticsearch 7.17.5
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 ## Report
 
-To document our work, we wrote repoart that is included in the [repo](docs\Report.pdf).
+To document our work, we wrote repoart that is included in the [repo](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/docs/Report.pdf).
 
 ## Contributers
 <h3> Karim Omrane & Zeineb Chebaane, INDP3 AIM, 2022 - 2023
