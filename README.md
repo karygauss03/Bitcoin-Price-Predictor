@@ -48,6 +48,15 @@ This work relies on [Historical bitcoin data from YahooFinance](https://finance.
 ## Notebooks
 - [Bitcoin Price Prediction using LSTM + Analysis](notebooks\Bitcoin_price_prediction_LSTM.ipynb)
 
+## Requirements
+- Elasticsearch 7.17.5
+- Kibana 7.17.5
+- Kafka 3.2.0
+- Spark 3.3.1
+- To install python packages run 
+```bash
+pip install -r requirements.txt
+```
 ## Report
 
 To document our work, we wrote repoart that is included in the [repo](docs\Report.pdf).
