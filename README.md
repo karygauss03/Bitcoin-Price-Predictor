@@ -22,7 +22,7 @@ This project consists of a Kibana dashboard for Bitcoin price visualization and 
 ![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/Viz5.png)
 <span>Predicted value visualization</span>
 ![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/prediction_lstm.JPG)
-![alt text]([img\prediction_lstm_more.png](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/prediction_lstm_more.png))
+![alt text](https://github.com/karygauss03/Bitcoin-Price-Predictor/blob/main/img/prediction_lstm_more.png)
 <span>Price prediction for the next week using LSTM</span>
 
 ## Folder Structure 
